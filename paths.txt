@@ -1,0 +1,7 @@
+dl C:\Users\griff\Downloads\
+pr C:\Users\griff\Downloads\projects\
+steam C:\Program Files (x86)\Steam\steamapps\common\
+onedrive C:\Users\griff\OneDrive
+root C:\
+ada C:\Users\griff\AppData\
+usb Y:

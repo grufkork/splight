@@ -1,0 +1,11 @@
+TERMINAL t wt
+-w 0
+nt
+-d
+PATH
+
+EXPLORER o explorer
+PATH
+
+CODE c C:\Users\griff\AppData\Local\Programs\Microsoft VS Code\Code.exe
+PATH
